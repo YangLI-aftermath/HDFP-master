@@ -1,6 +1,4 @@
-# Holistic and Deep Feature Pyramids for Saliency Detection
-Authors: Shizhou Dong, Zhifan Gao, Shanhui Sun, Xin Wang, Ming Li, Heye Zhang, Guang Yang, Huafeng Liu, and Shuo Li
-
+# Implementation of HDFP(Tensorflow)
 
 ## Introduction
 This is a Tensorflow implementation for a salient object detection approach based on the deep pyramid neural network, as presented in:
