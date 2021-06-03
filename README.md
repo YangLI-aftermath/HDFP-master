@@ -11,5 +11,6 @@ S. Dong, Z. Gao, S. Sun, X. Wang, M. Li, H. Zhang et al., Holistic and Deep Feat
 ## Requirement:
 ```
 Tensorflow == 1.4.0
+Python == 3.7
 ```
 
